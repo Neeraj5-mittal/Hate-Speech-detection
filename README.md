@@ -1,0 +1,2 @@
+"Harnessing NLP to Detect Hate Speech | Real-World Internship Project at Personifwy (May–June 2025)"
+Dive into my end-to-end Data Science internship project where I applied advanced Natural Language Processing (NLP) techniques to identify and classify hate speech in online texts. From data preprocessing to deploying machine learning models, this project showcases my skills in building impactful, ethical AI systems that promote safer digital communication spaces.
